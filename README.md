@@ -1,4 +1,4 @@
-# MTKafolabi---Online-Payment-Fraud-Detection
+# Online-Payment-Fraud-Detection
 
 The project is about a bank called Blossom Bank which is also known as BB PLC. It is a multinational financial services group, that offers retail and investment banking, pension management, asset management and payment services, headquartered in London.
 
